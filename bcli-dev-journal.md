@@ -33,7 +33,7 @@ From September 5th to  September 14.
 - [X] Formulate the business case. - _achieved on September, 13th_.
 - [ ] Generate the presentation and record the demo. - _on development_
 - [ ] Final review.
-- [ ] Pack all the files and upload them on Github.
+- [X] Pack all the files and upload them on Github. - _achieved on September, 14th_.
 - [ ] Send the email with al the project info to Dr. Barry on **September 14**. 
 
 ## Development process: journey
