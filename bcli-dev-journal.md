@@ -34,7 +34,7 @@ From September 5th to  September 14.
 - [X] Generate the presentation and record the demo. - _achieved on September, 14th_.
 - [X] Final review. - _achieved on September, 14th_.
 - [X] Pack all the files and upload them on Github. - _achieved on September, 14th_.
-- [X] Send the email with al the project info to Dr. Barry. - **_achieved on September 14*_*. 
+- [X] Send the email with al the project info to Dr. Barry. - **_achieved on September 14_**. 
 
 ## Development process: journey
 
