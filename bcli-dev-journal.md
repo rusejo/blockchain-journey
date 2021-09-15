@@ -31,10 +31,10 @@ From August 29 to September 11th.
 From September 5th to  September 14.
 - [X] Document all the process on a file/Github. - _achieved on September, 11th_.
 - [X] Formulate the business case. - _achieved on September, 13th_.
-- [ ] Generate the presentation and record the demo. - _on development_
-- [ ] Final review.
+- [X] Generate the presentation and record the demo. - _achieved on September, 14th_.
+- [X] Final review. - _achieved on September, 14th_.
 - [X] Pack all the files and upload them on Github. - _achieved on September, 14th_.
-- [ ] Send the email with al the project info to Dr. Barry on **September 14**. 
+- [X] Send the email with al the project info to Dr. Barry. - **_achieved on September 14*_*. 
 
 ## Development process: journey
 
